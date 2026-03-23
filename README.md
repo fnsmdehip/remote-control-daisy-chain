@@ -1,33 +1,35 @@
 # Remote Control Daisy Chain
 
-Open-source multi-machine remote orchestration with launchd and SSH worker nodes
+**Open-source multi-machine remote orchestration with launchd and SSH worker nodes**
 
 ## Overview
 
-Part of the PRINTMAXX autonomous revenue system — extracted as a standalone project.
+Open-source multi-machine remote orchestration with launchd and SSH worker nodes
 
-## Highlights
+**Category:** `software` / `remote-management`
+
+## Tech Stack
+
+- bash
+- launchd
+- ssh
+
+## Key Features
 
 - Multi-machine orchestration via SSH daisy chain
 - Worker node provisioning and health checking
 - Open-source infrastructure automation
 
-## Tech Stack
+## Timeline
 
-- **bash**
-- **launchd**
-- **ssh**
+- **2025-03-01** to **2026-03-22** (high intensity)
+
+## AI Tools Used
+
+claude
 
 ## Tags
 
-`infrastructure`, `open-source`, `remote`, `orchestration`, `devops`
+infrastructure, open-source, remote, orchestration, devops
 
-## Project History
-
-- **Active Period:** March 2025 — March 2026
-- **Parent System:** [PRINTMAXX Starter Kit](https://github.com/fnsmdehip/printmaxx-starter-kit)
-- **Built with:** AI pair programming (Claude, Cursor)
-
----
-
-*Part of [DEVPRINT](https://github.com/fnsmdehip/devprint) — 40+ projects built through AI-native development*
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
